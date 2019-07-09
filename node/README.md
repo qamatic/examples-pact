@@ -8,7 +8,7 @@ Build image:
 docker build -t delete-examples-pact .
 ```
 
-Shell into:
+Shell:
 ```
 docker run --rm -it delete-examples-pact ash
 ```
