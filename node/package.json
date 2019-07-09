@@ -1,0 +1,23 @@
+{
+  "name": "examples-pact",
+  "version": "1.0.0",
+  "description": "pact test for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qamatic/examples-pact.git"
+  },
+  "author": "Senthil Maruthaiappan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qamatic/examples-pact/issues"
+  },
+  "homepage": "https://github.com/qamatic/examples-pact#readme",
+  "dependencies": {
+    "@pact-foundation/pact": "8.2.6",
+    "@pact-foundation/pact-node": "8.2.0"
+  }
+}
